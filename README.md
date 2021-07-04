@@ -1,0 +1,2 @@
+Aprendendo a mexer no git na marra, estou penando com o terminal e seus códigos, mas através da persistência estou conseguindo resultado e seguindo na aula do Gama.
+A didática é muito boa, o JC Bombardelli explica as coisas muito bom e com muita paciência. 
