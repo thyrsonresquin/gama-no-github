@@ -6,6 +6,6 @@ para aprender comandos importantes do git.
 ## Autor
 [Thyrson Resquin](https://www.linkedin.com/in/thyrson-resquin/)
 
-# Créditos
+## Créditos
 [JC Bombardelli](https://github.com/jcbombardelli)
 
